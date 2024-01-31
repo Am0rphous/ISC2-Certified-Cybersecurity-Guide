@@ -7,7 +7,7 @@
 <p align="center"> This is an entry-level certification, meaning no work experience is required. ISC2 has currently an initiative to help one million people get certified in cybersecurity. You'll get free training and 1 exam attempt. The certification is ANAB accredited with ISO/IEC Standard 17024 which in English terms means the program is following a standard for how it's organized. <br>
     <a href="https://www.isc2.org/candidate">Sign up</a> and or out the <a href="https://cloud.connect.isc2.org/cc-ultimate-guide">Ultimate Guide</a>. </p> 
 
-<br> <br>
+<br>
 
 Thanks to [cyberfascinate](https://github.com/cyberfascinate) for providing most of this content from his own [ISC2-CC-Study-Material repo](https://github.com/cyberfascinate/ISC2-CC-Study-Material). I reorganized it to my liking. Let me know if something is wrong or could be done better. Cheers!
 
