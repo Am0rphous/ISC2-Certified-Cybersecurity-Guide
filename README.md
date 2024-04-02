@@ -4,7 +4,7 @@
 
 <p align="center">The Certified in Cybersecurity℠ (CC) is for anyone interested in gaining a basic understanding of cybersecurity concepts. This is an entry-level certification and no work experience is required. </p>
 
-<p align="center"> This is an entry-level certification, meaning no work experience is required. ISC2 has currently an initiative to help one million people get certified in cybersecurity. You'll get free training and 1 exam attempt. The certification is ANAB accredited with ISO/IEC Standard 17024 which in English terms means the program is following a standard for how it's organized, awesome. <br>
+<p align="center"> This is an entry-level certification, meaning no work experience is required. ISC2 has currently an initiative to help one million people get certified in cybersecurity. You'll get free training and 1 exam attempt.  Generally, the course only requires about 10-14 hours to complet. The certification is ANAB accredited with ISO/IEC Standard 17024 which in English terms means the program is following a standard for how it's organized, cool! <br>
     <a href="https://www.isc2.org/candidate">Sign up</a> or check the <a href="https://cloud.connect.isc2.org/cc-ultimate-guide">Ultimate Guide</a>. </p> 
 
 <br>
