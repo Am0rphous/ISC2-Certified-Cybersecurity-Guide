@@ -13,6 +13,12 @@ Thanks to [cyberfascinate](https://github.com/cyberfascinate) for providing most
 
 <br>
 
+Similar writeups:
+- [ISC2-CC-Dump-Questions-Study-Material](https://github.com/AyemunHossain/ISC2-CC-Dump-Questions-Study-Material)
+
+
+<br>
+
 Chapter 1: Security Principles
 
     * Understand the Security Concepts of Information Assurance
